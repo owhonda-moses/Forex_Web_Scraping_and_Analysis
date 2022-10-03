@@ -29,7 +29,7 @@ From the analysis -
 - Moving averages presented smoother price action that gave a clearer picture of the market trend, but considering that it is a lagging indicator, it's probably best not to use it as a sole technical indicator to predict future trends. We see a cross of the moving averages preceding the bullish run of the US dollars to it's highest point around March 2020.
 - The candlestick charts gave better and easy-to-interprete visuals of the market sentiment, and from observing the candlestick patterns, we see that the US dollars is currently growing on other major currency pairs. While this might nudge traders to go long on the dollar, it should be verified by analyzing with other technical indicators.
 
-Screenshots of some candlestick charts were added to the notebook for an overview on GitHub, but to view all the interactive candlestick charts, copy the iPython <u>[notebook url](https://github.com/owhonda-moses/Forex_Web_Scraping_and_Analysis/blob/master/forex_analysis.ipynb)</u> and paste it in this <u>[notebook viewer](https://nbviewer.org/)</u>.
+Screenshots of some candlestick charts were added to the notebook for an overview on GitHub, but to view all the interactive candlestick charts, copy the iPython [notebook url](https://github.com/owhonda-moses/Forex_Web_Scraping_and_Analysis/blob/master/forex_analysis.ipynb) and paste it in <u>[Jupyter Notebook Viewer](https://nbviewer.org/)</u>.
 
 >>_PS: I selected a dark background for the viz because I use a dark theme in my Jupyter notebook._
 
