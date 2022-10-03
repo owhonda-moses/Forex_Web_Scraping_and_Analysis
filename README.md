@@ -26,6 +26,7 @@ From the analysis -
 
 
 - Gold peaked close to 2100 around August 2020 and currently appears to be in a bearish trend. Gold however is highly volatile and should be traded with multiple effective trading strategies, whether scalping or trading long term.
+- The Euro, Pounds and Gold have been on a steady decline against the dollar most notably from March 2022, which could be attributed to the ongoing war in Ukraine and economic sanctions placed on the Russian state.
 - Moving averages presented smoother price action that gave a clearer picture of the market trend, but considering that it is a lagging indicator, it's probably best not to use it as a sole technical indicator to predict future trends. We see a cross of the moving averages preceding the bullish run of the US dollars to it's highest point around March 2020.
 - The candlestick charts gave better and easy-to-interprete visuals of the market sentiment, and from observing the candlestick patterns, we see that the US dollars is currently growing on other major currency pairs. While this might nudge traders to go long on the dollar, it should be verified by analyzing with other technical indicators.
 
