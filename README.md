@@ -25,10 +25,10 @@ After gathering the data, I carried out preliminary data wrangling and concatena
 From the analysis -
 
 
-- Gold peaked close to 2100 around August 2020 and currently appears to be in a bearish trend. Gold however is highly volatile and should be traded with multiple effective trading strategies, whether scalping or trading long term.
-- The Euro, Pounds and Gold have been on a steady decline against the dollar most notably from March 2022, which could be attributed to the ongoing war in Ukraine and economic sanctions placed on Russia.
-- Moving averages presented smoother price action that gave a clearer picture of the market trend, but considering that it is a lagging indicator, it's probably best not to use it as a sole technical indicator to predict future trends. We see a cross of the moving averages preceding the bullish run of the US dollars to it's highest point around March 2020.
-- The candlestick charts gave better and easy-to-interprete visuals of the market sentiment, and from observing the candlestick patterns, we see that the US dollars is currently growing on other major currency pairs. While this might nudge traders to go long on the dollar, it should be verified by analyzing with other technical indicators.
+- Gold peaked close to 2100 around August 2020 and currently appears to be in a downtrend. Gold however is highly volatile and should be traded with multiple effective trading strategies, whether scalping or trading long term.
+- The Euro, Pounds and Gold have been on a steady decline against the dollar most notably from March 2022, which might be attributed to the ongoing war in Ukraine and consequent economic sanctions placed on Russia.
+- Moving averages presented smoother price action that gave a clearer picture of the market trends, but considering that it is a lagging indicator, it's probably best not to use it as a sole technical indicator to predict future trends. We see a cross of the moving averages preceding the bullish run of the USD to it's highest point around March 2020.
+- The candlestick charts gave better and easy-to-interprete visuals of the market sentiment, and from observing the candlestick patterns, we see that the US dollar is currently growing on other major currency pairs. While this might nudge traders to go long on the dollar, it should be verified by analyzing with other technical indicators.
 
 Screenshots of some candlestick charts were added to the notebook for an overview on GitHub, but to view all the interactive candlestick charts, copy the iPython [notebook url](https://github.com/owhonda-moses/Forex_Web_Scraping_and_Analysis/blob/master/forex_analysis.ipynb) and paste it in <u>[Jupyter Notebook Viewer](https://nbviewer.org/)</u>.
 
@@ -50,6 +50,7 @@ _References for this repo include:_
 - https://stackoverflow.com/
 - https://selenium-python.readthedocs.io/
 
+
 **THIS PROJECT IS <u>NOT</u> INTENDED TO BE A RECOMMENDATION TO TRADE ANY OF THE CURRENCY PAIRS BASED ON THIS TRADE ANALYSIS.**
 
-_For various reasons, one of which is trader manipulation, stats used in this analysis might differ from current stats, as well as trading stats from other brokers or forex trading platforms._
+_For various reasons, one of which is [price manipulation](https://www.forexfactory.com/thread/583702-how-can-such-a-huge-market-be-manipulated), stats used in this analysis might differ from current stats, as well as trading stats from other brokers or forex trading platforms._
